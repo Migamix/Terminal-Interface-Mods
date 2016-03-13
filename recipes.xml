@@ -35,7 +35,12 @@
         <ingredient name="cornMeal" count="1"/>
         <ingredient name="bottledWater" count="1"/>
     </recipe>
-
+    
+    <recipe name="beer" count="1" scrapable="False" craft_area="campfire" craft_tool="beaker" >
+        <ingredient name="cornMeal" count="6"/>
+        <ingredient name="bottledWater" count="1"/>
+    </recipe> <!--add beer for speed-->
+    
     <recipe name="cornOnTheCob" count="1" scrapable="False" craft_area="campfire" craft_tool="cookingPot" >
         <ingredient name="corn" count="1"/>
         <ingredient name="bottledWater" count="1"/>
