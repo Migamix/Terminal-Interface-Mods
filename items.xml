@@ -9531,5 +9531,50 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
             <property name="Rot" value="90,45,0" />
         </property>
     </item>
-    
+    <item id="847" name="HolyHandGrenade" > <!-- this item causes severe memory use-->
+        <property name="Class" value="ItemClassTimeBomb" />
+        <property name="Meshfile" value="Items/Weapons/Ranged/PipeBomb/PipeBombPrefab" />
+        <property name="Material" value="metal" />
+        <property name="HoldType" value="25" />
+        <property name="Explosion.BlockDamage" value="100" />
+        <!-- damage for blocks in the center of the explosion -->
+        <property name="Explosion.EntityDamage" value="100" />
+        <!-- damage for entities in the center of the explosion -->
+        <property name="Explosion.ParticleIndex" value="1" />
+        <!-- which prefab/particle is used -->
+        <property name="Explosion.RadiusBlocks" value="10" />
+        <!-- damage radius for blocks -->
+        <property name="Explosion.RadiusEntities" value="15" />
+        <!-- damage radius for entities -->
+        	<property name="Explosion.DamageBonus.stone" value="5" />
+		<property name="Explosion.DamageBonus.metal" value="5" />
+		<property name="Explosion.DamageBonus.earth" value="5" />
+		<property name="Explosion.DamageBonus.cloth" value="2" />
+		<property name="Explosion.DamageBonus.wood" value="2" />
+		<property name="Explosion.DamageBonus.water" value="0" />
+		<property name="Explosion.DamageBonus.glass" value="15" />
+	
+        <property name="FuseTime" value="5" />
+        <!-- time in sec, max 6 -->
+        <property name="DropScale" value="2" />
+        <property class="Action0">
+            <!-- AttackAction -->
+            <property name="Class" value="ThrowAway" />
+            <property name="Throw_strength_default" value="0.8" />
+            <property name="Throw_strength_max" value="2.5" />
+            <property name="Max_strain_time" value="2.1" />
+            <property name="Sound_start" value="swoosh" />
+        </property>
+        <property class="Action1">
+            <!-- UseAction -->
+            <property name="Class" value="Activate" />
+        </property>
+        <property name="ThrowableDecoy" value="true" />
+        <property name="Group" value="Ammo/Weapons" />
+        <property class="Preview">
+            <property name="Zoom" value="28" />
+            <property name="Pos" value="0,-0.05" />
+            <property name="Rot" value="90,45,0" />
+        </property>
+    </item>
 </items>
