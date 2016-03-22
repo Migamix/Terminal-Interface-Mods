@@ -14842,4 +14842,36 @@ This will be "done right" at a later time. For now it needs to WORK. Gazz-->
     <drop event="Fall" name="scrapMetalPile" count="1" prob="1.0"  stick_chance=".75" />
     <property name="Group" value="Building" />
   </block>
+  <!-- Happy Meal	-->
+  <block id="1720" name="Happy Meal (Locked)">
+    <property name="CustomIcon" value="shopping_basket" />
+    <property name="Material" value="paper" />
+    <property name="Shape" value="Ext3dModel" />
+    <property name="Mesh" value="models" />
+    <property name="Model" value="LootContainers/shopping_basket" param1="main_mesh" />
+    <property name="IsTerrainDecoration" value="true" />
+    <property name="DowngradeBlock" value="Happy Meal" />  
+    <property name="Place" value="TowardsPlacer" />
+    <drop event="Destroy" count="0" />
+  </block>
+  
+  <block id="1721" name="Happy Meal">
+    <property name="Class" value="Loot" />
+    <property name="CustomIcon" value="shopping_basket" />
+    <property name="Material" value="cloth" />
+    <property name="Shape" value="Ext3dModel" />
+    <property name="Mesh" value="models" />
+    <property name="Model" value="LootContainers/shopping_basket" param1="main_mesh" />
+    <property name="IsTerrainDecoration" value="true" />
+    <property name="LootList" value="180" />
+    <drop event="Destroy" count="0" />
+  </block>
+  <block id="1722" name="bookStoreBookcase (Locked)">
+    <property name="Material" value="wood_weak" />
+    <property name="Shape" value="Half" />
+    <property name="Texture" value="67,241,241,241,241,241" />
+    <drop event="Destroy" count="0" />
+    <property name="DowngradeBlock" value="bookStoreBookcase" />
+    <property name="Group" value="Building" />
+  </block>
 </blocks>
