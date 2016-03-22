@@ -1332,5 +1332,18 @@
 	<lootcontainer id="68"  count="0,2" size="8,4" sound_open="UseActions/open_dumpster" sound_close="UseActions/close_dumpster">
 		<item group="junk" count="1"/>	
     </lootcontainer>  	
+    <!-- Happy Meal -->	
+    	<lootgroup name="Happy Meal" count="all">	
+		<item name="cornSeed" count="5" />
+		<item name="potatoSeed" count="5" />
+		<item name="blueberrySeed" count="5" />
+		<item name="rawMeat" count="5" />		
+		<item name="bottledWater" count="5" />	
+	</lootgroup>
+	
+	    <lootcontainer id="180" count="1" size="8,4" destroy_on_close="true" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack" open_time="1.5" loot_quality_template="baseTemplate">
+		<item group="Happy Meal" />	
+    </lootcontainer>  
+	<!-- Happy Meal End --> 
    
 </lootcontainers>
