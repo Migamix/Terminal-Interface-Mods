@@ -1278,7 +1278,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Weapons/Ranged/SawedOffPumpShotgun/shotgunShell" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="500" />
         <property name="DropScale" value="4" />
         <property name="Group" value="Ammo/Weapons" />
         <property class="Preview">
@@ -1694,7 +1694,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/yucca_juicePrefab" />
         <property name="Material" value="organic" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property class="Action1">
             <!-- UseAction -->
             <property name="Class" value="Eat" />
@@ -2063,7 +2063,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/bottled_waterPrefab" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property name="Weight" value="10" />
 		<property name="CraftingIngredientTime" value="15" />
         <property class="Action1">
@@ -2147,7 +2147,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Misc/paper" />
         <property name="Material" value="paper" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="1000" />
         <property name="FuelValue" value="1" />
         <property name="Weight" value="1" />
         <property name="Group" value="Miscellaneous" />
@@ -2162,7 +2162,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Misc/Book" />
         <property name="Material" value="paper" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="50" />
+        <property name="Stacknumber" value="250" />
         <property name="FuelValue" value="20" />
         <property name="Weight" value="20" />
         <property name="Group" value="Miscellaneous" />
@@ -2204,7 +2204,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/mason_jarPrefab" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property name="Weight" value="10" />
         <property class="Action1">
             <!-- UseAction -->
@@ -2506,7 +2506,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/mason_jar" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property name="Group" value="Resources" />
         <property class="Preview">
             <property name="Zoom" value="28" />
@@ -2519,7 +2519,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="Material" value="cloth" />
         <property name="HoldType" value="16" />
-        <property name="Stacknumber" value="5" />
+        <property name="Stacknumber" value="50" />
         <property name="FuelValue" value="1" />
         <property name="Weight" value="5" />
         <property class="Action1">
@@ -2547,7 +2547,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/aloeCreamPrefab" />
         <property name="Material" value="organic" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property class="Action1">
             <!-- UseAction -->
             <property name="Class" value="Eat" />
@@ -2571,7 +2571,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Crafting/coal" />
         <property name="Material" value="coal" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="500" />
+        <property name="Stacknumber" value="2000" />
         <property name="FuelValue" value="20" />
         <property name="DropScale" value="8" />
         <property name="Group" value="Resources" />
@@ -2599,7 +2599,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/bottledRiverWaterPrefab" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
 		<property name="CraftingIngredientTime" value="20" />
         <property class="Action1">
             <!-- UseAction -->
@@ -2640,7 +2640,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Crafting/cloth" />
         <property name="Material" value="cloth" />
         <property name="HoldType" value="14" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="1000" />
         <property name="RepairAmount" value="25" />
         <property name="FuelValue" value="1" />
         <property name="Weight" value="5" />
@@ -2655,7 +2655,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/cornmeal" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="500" />
+        <property name="Stacknumber" value="2000" />
         <property name="Group" value="Resources" />
 		<property name="CraftingIngredientTime" value="1" />
         <property class="Preview">
@@ -2727,7 +2727,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Crafting/rock_small" />
         <property name="Material" value="stone" />
         <property name="HoldType" value="40" />
-        <property name="Stacknumber" value="1000" />
+        <property name="Stacknumber" value="2000" />
         <property name="RepairAmount" value="200" />
         <property name="Weight" value="5" />
         <property class="Action0">
@@ -2855,7 +2855,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="HandMeshfile" value="Items/Misc/crossbow_bolt_hand" />
 		<property name="HoldType" value="32" />
         <property name="Material" value="wood" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="500" />
         <property name="FuelValue" value="8" />
         <property class="Action1">
             <!-- UseAction -->
@@ -2888,7 +2888,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/honeyPrefab" />
         <property name="Material" value="organic" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="10" />
+        <property name="Stacknumber" value="50" />
         <property class="Action1">
             <!-- UseAction -->
             <property name="Class" value="Eat" />
@@ -3021,7 +3021,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Crafting/feather" />
         <property name="Material" value="cloth" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="1000" />
         <property name="FuelValue" value="1" />
         <property name="Group" value="Resources" />
     </item>
@@ -3050,7 +3050,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="HandMeshfile" value="Items/Misc/arrow_hand" />
 		<property name="HoldType" value="32" />
         <property name="Material" value="wood" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="500" />
         <property name="FuelValue" value="8" />
         <property class="Action1"> <!-- UseAction -->
             <property name="Class" value="Projectile" />
@@ -3146,7 +3146,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="Material" value="lead" />
         <property name="HoldType" value="45" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="1000" />
         <property name="Group" value="Resources" />
         <property class="Preview">
             <property name="Zoom" value="28" />
@@ -3485,7 +3485,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="Material" value="cloth" />
         <property name="HoldType" value="16" />
-        <property name="Stacknumber" value="5" />
+        <property name="Stacknumber" value="50" />
         <property name="FuelValue" value="1" />
         <property name="Weight" value="5" />
         <property class="Action1">
@@ -3513,7 +3513,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Crafting/bullet_casing" />
         <property name="Material" value="brass" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="500" />
+        <property name="Stacknumber" value="1000" />
         <property name="Group" value="Resources" />
         <property class="Preview">
             <property name="Zoom" value="18" />
@@ -3585,7 +3585,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="Material" value="lead" />
         <property name="HoldType" value="45" />
-        <property name="Stacknumber" value="500" />
+        <property name="Stacknumber" value="1000" />
         <property name="Group" value="Resources" />
         <property class="Preview">
             <property name="Zoom" value="18" />
@@ -3637,7 +3637,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Crafting/radiator" />
         <property name="Material" value="brass" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="5" />
+        <property name="Stacknumber" value="20" />
         <property name="Weight" value="100" />
         <property name="Group" value="Resources" />
         <property class="Preview">
@@ -3663,7 +3663,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Misc/car_battery" />
         <property name="Material" value="lead" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="5" />
+        <property name="Stacknumber" value="1" />
         <property name="Weight" value="160" />
         <property name="Group" value="Resources" />
 		<property name="VehicleSlotType" value="battery"/>
@@ -3835,7 +3835,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Crafting/crushedSand" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="1000" />
         <property name="Weight" value="5" />
         <property name="Group" value="Resources" />
         <property class="Preview">
@@ -3904,7 +3904,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/goldenrod_teaPrefab" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property class="Action1">
             <!-- UseAction -->
             <property name="Class" value="Eat" />
@@ -4427,7 +4427,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/coffeePrefab" />
         <property name="Material" value="organic" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property class="Action1">
             <!-- UseAction -->
             <property name="Class" value="Eat" />
@@ -5065,7 +5065,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/bottledRiverWaterPrefab" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property class="Action1">
             <!-- UseAction -->
             <property name="Class" value="Eat" />
@@ -5091,7 +5091,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/redTeaPrefab" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property class="Action1">
             <!-- UseAction -->
             <property name="Class" value="Eat" />
@@ -5113,7 +5113,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="45" />
-        <property name="Stacknumber" value="50" />
+        <property name="Stacknumber" value="100" />
         <property name="RepairTime" value="1" />
         <property name="RepairAmount" value="200" />
         <property name="Group" value="Resources" />
@@ -5127,7 +5127,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/coffeePrefab" />
         <property name="Material" value="organic" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property name="Group" value="Chemicals" />
         <property class="Preview">
             <property name="Zoom" value="28" />
@@ -5376,7 +5376,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="Material" value="wood" />
         <property name="HoldType" value="45" />
-        <property name="Stacknumber" value="1000" />
+        <property name="Stacknumber" value="2000" />
         <property name="FuelValue" value="10" />
         <property name="Group" value="Resources,Basics" />
 		<property name="RepairAmount" value="10" />
@@ -5845,7 +5845,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Health/gauze" />
         <property name="Material" value="cloth" />
         <property name="HoldType" value="16" />
-        <property name="Stacknumber" value="5" />
+        <property name="Stacknumber" value="50" />
         <property class="Action1">
             <!-- UseAction -->
             <property name="Class" value="Eat" />
@@ -6299,7 +6299,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/honeyPrefab" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="10" />
+        <property name="Stacknumber" value="50" />
         <property name="Group" value="Chemicals" />
         <property class="Preview">
             <property name="Zoom" value="24" />
@@ -6683,7 +6683,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/can_empty" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="14" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property name="Weight" value="5" />
 		<property name="CraftingIngredientTime" value="20" />
         <property class="Action1">
@@ -6713,7 +6713,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/can_empty" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="14" />
-        <property name="Stacknumber" value="1" />
+        <property name="Stacknumber" value="50" />
         <property name="Weight" value="5" />
 		<property name="CraftingIngredientTime" value="10" />
         <property class="Action1">
@@ -6764,7 +6764,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Food/bottledBeerPrefab" />
         <property name="Material" value="glass" />
         <property name="HoldType" value="3" />
-        <property name="Stacknumber" value="15" />
+        <property name="Stacknumber" value="50" />
         <property name="Weight" value="15" />
         <property class="Action1">
             <!-- UseAction -->
@@ -7122,7 +7122,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Material" value="metal" />
         <property name="Weight" value="5" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="500" />
+        <property name="Stacknumber" value="1000" />
 		<property name="Group" value="Resources" />
         <property class="Preview">
             <property name="Zoom" value="35" />
@@ -7230,7 +7230,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Weapons/Ranged/SawedOffPumpShotgun/shotgunShell" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="128" />
+        <property name="Stacknumber" value="500" />
         <property name="DropScale" value="4" />
         <property name="Group" value="Ammo/Weapons" />
         <property class="Preview">
@@ -7402,7 +7402,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="45" />
-        <property name="Stacknumber" value="50" />
+        <property name="Stacknumber" value="1" />
         <property name="Degradation" value="100" param1="true" />
         <property name="Weight" value="5" />
         <property name="Group" value="Resources" />
@@ -7684,7 +7684,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="HandMeshfile" value="Items/Misc/arrow_hand" />
 		<property name="HoldType" value="32" />
         <property name="Material" value="wood" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="500" />
         <property name="FuelValue" value="10" />
         <property class="Action1"> <!-- UseAction -->
             <property name="Class" value="Projectile" />
@@ -7718,7 +7718,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="HandMeshfile" value="Items/Misc/arrow_hand" />
 		<property name="HoldType" value="32" />
         <property name="Material" value="wood" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="500" />
         <property name="FuelValue" value="8" />
         <property class="Action1"> <!-- UseAction -->
             <property name="Class" value="Projectile" />
@@ -7752,7 +7752,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="HandMeshfile" value="Items/Misc/arrow_flaming_hand" />
 		<property name="HoldType" value="32" />
         <property name="Material" value="wood" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="500" />
         <property name="FuelValue" value="8" />
         <property name="DamageBonus.head" value="6" />
         <property name="DamageBonus.glass" value="25" />
@@ -7797,7 +7797,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Weapons/Ranged/SawedOffPumpShotgun/shotgunShell" />
         <property name="Material" value="metal" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="128" />
+        <property name="Stacknumber" value="500" />
         <property name="DropScale" value="4" />
         <property name="Group" value="Ammo/Weapons" />
         <property class="Action1"> <!-- UseAction -->
@@ -8354,7 +8354,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="HandMeshfile" value="Items/Misc/crossbow_bolt_hand" />
 		<property name="HoldType" value="32" />
         <property name="Material" value="wood" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="500" />
         <property name="FuelValue" value="8" />
         <property class="Action1">
             <!-- UseAction -->
@@ -8390,7 +8390,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="HandMeshfile" value="Items/Misc/crossbow_bolt_hand" />
 		<property name="HoldType" value="32" />
         <property name="Material" value="wood" />
-        <property name="Stacknumber" value="250" />
+        <property name="Stacknumber" value="500" />
         <property name="FuelValue" value="8" />
         <property class="Action1">
             <!-- UseAction -->
@@ -8516,7 +8516,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="Material" value="leather" />
         <property name="HoldType" value="45" />
-        <property name="Stacknumber" value="1" />
+        <property name="Stacknumber" value="10" />
         <property name="Weight" value="10" />
         <property name="Group" value="Resources" />
         <property class="Preview">
@@ -8529,7 +8529,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="Meshfile" value="Items/Crafting/coal" />
         <property name="Material" value="coal" />
         <property name="HoldType" value="21" />
-        <property name="Stacknumber" value="500" />
+        <property name="Stacknumber" value="1000" />
         <property name="FuelValue" value="50" />
         <property name="DropScale" value="8" />
         <property name="Group" value="Resources" />
@@ -8989,7 +8989,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
 		<property name="DropMeshfile" value="Items/Misc/sack_droppedPrefab" />
         <property name="HoldType" value="45" />	
         <property name="Material" value="metal" />
-        <property name="Stacknumber" value="1" />
+        <property name="Stacknumber" value="10" />
         <property name="Group" value="Resources" />
     </item>
     <item id="821" name="calipers">
@@ -8998,7 +8998,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="HoldType" value="45" />	
         <property name="Material" value="metal" />
 		<property name="Weight" value="5" />
-        <property name="Stacknumber" value="1" />
+        <property name="Stacknumber" value="10" />
         <property name="Group" value="Resources" />
     </item>
     <item id="822" name="toolAndDieSet">
@@ -9007,7 +9007,7 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
         <property name="HoldType" value="45" />	
         <property name="Material" value="metal" />
 		<property name="Weight" value="5" />
-        <property name="Stacknumber" value="1" />
+        <property name="Stacknumber" value="10" />
         <property name="Group" value="Resources" />
     </item>
 	<item id="823" name="unit_iron">
@@ -9531,50 +9531,5 @@ And for the repair and upgrade actions, each swing for repair or upgrade will gi
             <property name="Rot" value="90,45,0" />
         </property>
     </item>
-    <item id="847" name="HolyHandGrenade" > <!-- this item causes severe memory use-->
-        <property name="Class" value="ItemClassTimeBomb" />
-        <property name="Meshfile" value="Items/Weapons/Ranged/PipeBomb/PipeBombPrefab" />
-        <property name="Material" value="metal" />
-        <property name="HoldType" value="25" />
-        <property name="Explosion.BlockDamage" value="100" />
-        <!-- damage for blocks in the center of the explosion -->
-        <property name="Explosion.EntityDamage" value="100" />
-        <!-- damage for entities in the center of the explosion -->
-        <property name="Explosion.ParticleIndex" value="1" />
-        <!-- which prefab/particle is used -->
-        <property name="Explosion.RadiusBlocks" value="10" />
-        <!-- damage radius for blocks -->
-        <property name="Explosion.RadiusEntities" value="15" />
-        <!-- damage radius for entities -->
-        	<property name="Explosion.DamageBonus.stone" value="5" />
-		<property name="Explosion.DamageBonus.metal" value="5" />
-		<property name="Explosion.DamageBonus.earth" value="5" />
-		<property name="Explosion.DamageBonus.cloth" value="2" />
-		<property name="Explosion.DamageBonus.wood" value="2" />
-		<property name="Explosion.DamageBonus.water" value="0" />
-		<property name="Explosion.DamageBonus.glass" value="15" />
-	
-        <property name="FuseTime" value="5" />
-        <!-- time in sec, max 6 -->
-        <property name="DropScale" value="2" />
-        <property class="Action0">
-            <!-- AttackAction -->
-            <property name="Class" value="ThrowAway" />
-            <property name="Throw_strength_default" value="0.8" />
-            <property name="Throw_strength_max" value="2.5" />
-            <property name="Max_strain_time" value="2.1" />
-            <property name="Sound_start" value="swoosh" />
-        </property>
-        <property class="Action1">
-            <!-- UseAction -->
-            <property name="Class" value="Activate" />
-        </property>
-        <property name="ThrowableDecoy" value="true" />
-        <property name="Group" value="Ammo/Weapons" />
-        <property class="Preview">
-            <property name="Zoom" value="28" />
-            <property name="Pos" value="0,-0.05" />
-            <property name="Rot" value="90,45,0" />
-        </property>
-    </item>
+    
 </items>
